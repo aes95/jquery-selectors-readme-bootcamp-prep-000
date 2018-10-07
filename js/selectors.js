@@ -2,4 +2,6 @@
 function paragraphSelector(){
   return $('p');
 }
-function 
+function lastImageSelector(){
+  
+}
