@@ -15,4 +15,4 @@ function firstListItem(){
   console.log($('#pic-list'));
 }
 
-firstListItem()
+firstListItem();
