@@ -12,7 +12,8 @@ function divSelector(){
   return $('.pics');
 }
 function firstListItem(){
-  console.log($('#pic-list'));
+  var item =  $('#pic-list')
+  console.log(item);
 }
 
 firstListItem();
