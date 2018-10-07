@@ -12,7 +12,7 @@ function divSelector(){
   return $('.pics');
 }
 function firstListItem(){
-  var item =  $('#pic-list')
+  var item =  $('#pic-list');
   console.log(item);
 }
 
